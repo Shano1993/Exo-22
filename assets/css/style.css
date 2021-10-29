@@ -18,7 +18,7 @@ body {
     width: 50%;
     margin-left: 25%;
     margin-top: 10%;
-    height: 40rem;
+    height: 35rem;
     background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20200322/pngtree-elegant-white-background-with-shiny-image_332367.jpg");
     background-size: cover;
     border-radius: 10px;
@@ -63,12 +63,13 @@ h1 + p, h2 + p {
     display: inline-block;
     width: 100%;
     position: absolute;
-    margin-top: 80%;
+    margin-top: 55%;
 }
 
 h2 + p {
     color: chocolate;
     font-weight: bold;
+    font-size: 1.1rem;
 }
 
 #adress {
@@ -88,7 +89,7 @@ h2 + p {
 }
 
 p {
-    font-size: 0.7rem;
+    font-size: 0.9rem;
 }
 
 i {
@@ -102,6 +103,7 @@ img {
     margin-left: 60px;
     border: 5px solid black;
     box-shadow: 10px 10px 13px -7px #000000;
+    border-radius: 10px;
 }
 
 #profil {
