@@ -32,6 +32,9 @@ body {
     margin-top: 7%;
     position: relative;
 }
+#middle {
+    padding-left: 5%;
+}
 
 #name_society {
     display: inline-block;
